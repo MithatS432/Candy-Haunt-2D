@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 7fdbbb05c76ebc1448263d077dda81c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -334297947315310045
+    second: Halloween VFX 3_0
+  - first:
+      213: -8561408066560636104
+    second: Halloween VFX 3_1
+  - first:
+      213: 6599394458410890582
+    second: Halloween VFX 3_2
+  - first:
+      213: -4476203600460045034
+    second: Halloween VFX 3_3
+  - first:
+      213: 5779639738472955610
+    second: Halloween VFX 3_4
+  - first:
+      213: 7690827021488551242
+    second: Halloween VFX 3_5
+  - first:
+      213: -2500197423940868406
+    second: Halloween VFX 3_6
+  - first:
+      213: -1817866128029311110
+    second: Halloween VFX 3_7
+  - first:
+      213: 2984983478432995725
+    second: Halloween VFX 3_8
+  - first:
+      213: -8595145477134675057
+    second: Halloween VFX 3_9
+  - first:
+      213: 9114321026327056662
+    second: Halloween VFX 3_10
+  - first:
+      213: 7240919198508655087
+    second: Halloween VFX 3_11
+  - first:
+      213: -4674537792388195644
+    second: Halloween VFX 3_12
+  - first:
+      213: 4613754297197070509
+    second: Halloween VFX 3_13
+  - first:
+      213: 340813139311455994
+    second: Halloween VFX 3_14
+  - first:
+      213: 2759299164290969932
+    second: Halloween VFX 3_15
+  - first:
+      213: -2465643148324701093
+    second: Halloween VFX 3_16
+  - first:
+      213: -7410016545060598392
+    second: Halloween VFX 3_17
+  - first:
+      213: -942402398496182901
+    second: Halloween VFX 3_18
+  - first:
+      213: 5274678533062912242
+    second: Halloween VFX 3_19
+  - first:
+      213: -9172343081583157850
+    second: Halloween VFX 3_20
+  - first:
+      213: -2927757657711060085
+    second: Halloween VFX 3_21
+  - first:
+      213: -2579126558762718363
+    second: Halloween VFX 3_22
+  - first:
+      213: 6218001562564967652
+    second: Halloween VFX 3_23
+  - first:
+      213: -658755802364548260
+    second: Halloween VFX 3_24
+  - first:
+      213: 5395397915143877806
+    second: Halloween VFX 3_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Halloween VFX 3_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322f021c9c55c5bf0800000000000000
+      internalID: -334297947315310045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b4d7749b4cf2980800000000000000
+      internalID: -8561408066560636104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655334a7b42c59b50800000000000000
+      internalID: 6599394458410890582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61521449a8451e1c0800000000000000
+      internalID: -4476203600460045034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade796568b7653050800000000000000
+      internalID: 5779639738472955610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45fcc4ad6e4bba60800000000000000
+      internalID: 7690827021488551242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac668a580b38d4dd0800000000000000
+      internalID: -2500197423940868406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_7
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 0
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f19955364a5c6e0800000000000000
+      internalID: -1817866128029311110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89986498aacc6920800000000000000
+      internalID: 2984983478432995725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_9
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8315924ab8e7b880800000000000000
+      internalID: -8595145477134675057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_10
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61119170fa29c7e70800000000000000
+      internalID: 9114321026327056662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12a62a5a9ec7460800000000000000
+      internalID: 7240919198508655087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca109305a4b02fb0800000000000000
+      internalID: -4674537792388195644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da80d5da619570040800000000000000
+      internalID: 4613754297197070509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 10
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee1779ebfcab400800000000000000
+      internalID: 340813139311455994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41789478fffa4620800000000000000
+      internalID: 2759299164290969932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cfa31ce9648cdd0800000000000000
+      internalID: -2465643148324701093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d45e356355a2990800000000000000
+      internalID: -7410016545060598392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da82af20aebe2f0800000000000000
+      internalID: -942402398496182901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8e79bed2c633940800000000000000
+      internalID: 5274678533062912242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad5930809a45b080800000000000000
+      internalID: -9172343081583157850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bd3b71ce38e57d0800000000000000
+      internalID: -2927757657711060085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_22
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b2c224f0a153cd0800000000000000
+      internalID: -2579126558762718363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_23
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec328d0a77ca4650800000000000000
+      internalID: 6218001562564967652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_24
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b65568611abd6f0800000000000000
+      internalID: -658755802364548260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween VFX 3_25
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 73
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4b80a51dd40ea40800000000000000
+      internalID: 5395397915143877806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Halloween VFX 3_0: -334297947315310045
+      Halloween VFX 3_1: -8561408066560636104
+      Halloween VFX 3_10: 9114321026327056662
+      Halloween VFX 3_11: 7240919198508655087
+      Halloween VFX 3_12: -4674537792388195644
+      Halloween VFX 3_13: 4613754297197070509
+      Halloween VFX 3_14: 340813139311455994
+      Halloween VFX 3_15: 2759299164290969932
+      Halloween VFX 3_16: -2465643148324701093
+      Halloween VFX 3_17: -7410016545060598392
+      Halloween VFX 3_18: -942402398496182901
+      Halloween VFX 3_19: 5274678533062912242
+      Halloween VFX 3_2: 6599394458410890582
+      Halloween VFX 3_20: -9172343081583157850
+      Halloween VFX 3_21: -2927757657711060085
+      Halloween VFX 3_22: -2579126558762718363
+      Halloween VFX 3_23: 6218001562564967652
+      Halloween VFX 3_24: -658755802364548260
+      Halloween VFX 3_25: 5395397915143877806
+      Halloween VFX 3_3: -4476203600460045034
+      Halloween VFX 3_4: 5779639738472955610
+      Halloween VFX 3_5: 7690827021488551242
+      Halloween VFX 3_6: -2500197423940868406
+      Halloween VFX 3_7: -1817866128029311110
+      Halloween VFX 3_8: 2984983478432995725
+      Halloween VFX 3_9: -8595145477134675057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

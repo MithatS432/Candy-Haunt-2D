@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 6ffb40062ed5569488ca48ace867a83e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2888813487156237378
+    second: Pyramid-160x144_0
+  - first:
+      213: -4895894967314726862
+    second: Pyramid-160x144_1
+  - first:
+      213: 4992442461069506728
+    second: Pyramid-160x144_2
+  - first:
+      213: -4951307556064192887
+    second: Pyramid-160x144_3
+  - first:
+      213: 6060620307020168738
+    second: Pyramid-160x144_4
+  - first:
+      213: -7763644325932903622
+    second: Pyramid-160x144_5
+  - first:
+      213: -6631712915482228482
+    second: Pyramid-160x144_6
+  - first:
+      213: 6389605509718421443
+    second: Pyramid-160x144_7
+  - first:
+      213: -2458330623514592279
+    second: Pyramid-160x144_8
+  - first:
+      213: -8643019310771689781
+    second: Pyramid-160x144_9
+  - first:
+      213: -2721017353234738165
+    second: Pyramid-160x144_10
+  - first:
+      213: -7608893565307468206
+    second: Pyramid-160x144_11
+  - first:
+      213: -3834467746569961216
+    second: Pyramid-160x144_12
+  - first:
+      213: -5550241674890744955
+    second: Pyramid-160x144_13
+  - first:
+      213: 2457951190040399760
+    second: Pyramid-160x144_14
+  - first:
+      213: -9112981501749230594
+    second: Pyramid-160x144_15
+  - first:
+      213: 8319485155191161575
+    second: Pyramid-160x144_16
+  - first:
+      213: 6680587372790672121
+    second: Pyramid-160x144_17
+  - first:
+      213: 7603235462255925957
+    second: Pyramid-160x144_18
+  - first:
+      213: -7381586527182779283
+    second: Pyramid-160x144_19
+  - first:
+      213: -6604336162653597270
+    second: Pyramid-160x144_20
+  - first:
+      213: -92537581516010191
+    second: Pyramid-160x144_21
+  - first:
+      213: -8740454455179894242
+    second: Pyramid-160x144_22
+  - first:
+      213: -6755637088491859738
+    second: Pyramid-160x144_23
+  - first:
+      213: 9187543178277370582
+    second: Pyramid-160x144_24
+  - first:
+      213: -7978398045336371553
+    second: Pyramid-160x144_25
+  - first:
+      213: 6416005454151366499
+    second: Pyramid-160x144_26
+  - first:
+      213: 577592371858644461
+    second: Pyramid-160x144_27
+  - first:
+      213: -1405869400585177629
+    second: Pyramid-160x144_28
+  - first:
+      213: 5481706981882853658
+    second: Pyramid-160x144_29
+  - first:
+      213: -8545027718132848209
+    second: Pyramid-160x144_30
+  - first:
+      213: -455007671415404796
+    second: Pyramid-160x144_31
+  - first:
+      213: -3239020240628897628
+    second: Pyramid-160x144_32
+  - first:
+      213: 8447981922277767475
+    second: Pyramid-160x144_33
+  - first:
+      213: 9001604904778137857
+    second: Pyramid-160x144_34
+  - first:
+      213: 4592216863429545623
+    second: Pyramid-160x144_35
+  - first:
+      213: -6023086665081710113
+    second: Pyramid-160x144_36
+  - first:
+      213: 3515387518376689821
+    second: Pyramid-160x144_37
+  - first:
+      213: -5038097493929632605
+    second: Pyramid-160x144_38
+  - first:
+      213: -1474588185783710589
+    second: Pyramid-160x144_39
+  - first:
+      213: 4047722132453038263
+    second: Pyramid-160x144_40
+  - first:
+      213: -203929491967827598
+    second: Pyramid-160x144_41
+  - first:
+      213: 3517068078795359502
+    second: Pyramid-160x144_42
+  - first:
+      213: -4608491389140046554
+    second: Pyramid-160x144_43
+  - first:
+      213: 8616083885346338586
+    second: Pyramid-160x144_44
+  - first:
+      213: -747937235485682466
+    second: Pyramid-160x144_45
+  - first:
+      213: -3746424071695098311
+    second: Pyramid-160x144_46
+  - first:
+      213: -2566081425526535188
+    second: Pyramid-160x144_47
+  - first:
+      213: -8260200996861235150
+    second: Pyramid-160x144_48
+  - first:
+      213: 8858902080537791306
+    second: Pyramid-160x144_49
+  - first:
+      213: 1365250335169103938
+    second: Pyramid-160x144_50
+  - first:
+      213: -8293580292544844076
+    second: Pyramid-160x144_51
+  - first:
+      213: 7353811613773698008
+    second: Pyramid-160x144_52
+  - first:
+      213: 4245817136509671760
+    second: Pyramid-160x144_53
+  - first:
+      213: 8729845336736000227
+    second: Pyramid-160x144_54
+  - first:
+      213: -3526720133442850091
+    second: Pyramid-160x144_55
+  - first:
+      213: -8518380700953089655
+    second: Pyramid-160x144_56
+  - first:
+      213: -8654587793866907526
+    second: Pyramid-160x144_57
+  - first:
+      213: -442688449130624641
+    second: Pyramid-160x144_58
+  - first:
+      213: 264933395567861166
+    second: Pyramid-160x144_59
+  - first:
+      213: -1254911403436417522
+    second: Pyramid-160x144_60
+  - first:
+      213: -2017608312011612408
+    second: Pyramid-160x144_61
+  - first:
+      213: 646729680206777
+    second: Pyramid-160x144_62
+  - first:
+      213: 2532862523755477512
+    second: Pyramid-160x144_63
+  - first:
+      213: 5603849108850463924
+    second: Pyramid-160x144_64
+  - first:
+      213: 456438910350064024
+    second: Pyramid-160x144_65
+  - first:
+      213: -142333870044358130
+    second: Pyramid-160x144_66
+  - first:
+      213: 6810717350854172689
+    second: Pyramid-160x144_67
+  - first:
+      213: -8579315924811587756
+    second: Pyramid-160x144_68
+  - first:
+      213: -8837874398882192692
+    second: Pyramid-160x144_69
+  - first:
+      213: -6754122809669403844
+    second: Pyramid-160x144_70
+  - first:
+      213: -6527243248985968764
+    second: Pyramid-160x144_71
+  - first:
+      213: -6364420129974687052
+    second: Pyramid-160x144_72
+  - first:
+      213: 3522041490977069110
+    second: Pyramid-160x144_73
+  - first:
+      213: 8943576318326936756
+    second: Pyramid-160x144_74
+  - first:
+      213: -1575540685214063797
+    second: Pyramid-160x144_75
+  - first:
+      213: -4818494311716648960
+    second: Pyramid-160x144_76
+  - first:
+      213: -4930035453892307429
+    second: Pyramid-160x144_77
+  - first:
+      213: -5999541871590960203
+    second: Pyramid-160x144_78
+  - first:
+      213: -1164304272943189403
+    second: Pyramid-160x144_79
+  - first:
+      213: 1682800459152797435
+    second: Pyramid-160x144_80
+  - first:
+      213: -5899638912555071646
+    second: Pyramid-160x144_81
+  - first:
+      213: 3886106979898405277
+    second: Pyramid-160x144_82
+  - first:
+      213: -355398810437501403
+    second: Pyramid-160x144_83
+  - first:
+      213: 1468211535877025927
+    second: Pyramid-160x144_84
+  - first:
+      213: 2793548893999161956
+    second: Pyramid-160x144_85
+  - first:
+      213: 8359071802873403160
+    second: Pyramid-160x144_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pyramid-160x144_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 636
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2441e4c9f80271820800000000000000
+      internalID: 2888813487156237378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 639
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230459f77794e0cb0800000000000000
+      internalID: -4895894967314726862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 646
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8ff9d97f7b84540800000000000000
+      internalID: 4992442461069506728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 648
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986161bc20c694bb0800000000000000
+      internalID: -4951307556064192887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 649
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb4760f06ab1450800000000000000
+      internalID: 6060620307020168738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 616
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33da4e7e9ef14490800000000000000
+      internalID: -7763644325932903622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 616
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8cf4c5d3c67f3a0800000000000000
+      internalID: -6631712915482228482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 649
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf25a58b507ca850800000000000000
+      internalID: 6389605509718421443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_8
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 617
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebb2fc925142edd0800000000000000
+      internalID: -2458330623514592279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 617
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ac92cab3dd0880800000000000000
+      internalID: -8643019310771689781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 604
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0415c042210d3ad0800000000000000
+      internalID: -2721017353234738165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 604
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256c712bd97c76690800000000000000
+      internalID: -7608893565307468206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 605
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001410f76eb39cac0800000000000000
+      internalID: -3834467746569961216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 605
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b61966a9499f2b0800000000000000
+      internalID: -5550241674890744955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 607
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f4b95a5956c1220800000000000000
+      internalID: 2457951190040399760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 607
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef308875b9f288180800000000000000
+      internalID: -9112981501749230594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 612
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e20e4d8bafb47370800000000000000
+      internalID: 8319485155191161575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 612
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fae52ef1d636bc50800000000000000
+      internalID: 6680587372790672121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 505
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cada678e5e148960800000000000000
+      internalID: 7603235462255925957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 505
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c0670b9265f8990800000000000000
+      internalID: -7381586527182779283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 524
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa114c7504fa854a0800000000000000
+      internalID: -6604336162653597270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 500
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d4d555f8d37bef0800000000000000
+      internalID: -92537581516010191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 524
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12a58f5bfaa3b680800000000000000
+      internalID: -8740454455179894242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 523
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e01df46cd72f32a0800000000000000
+      internalID: -6755637088491859738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 492
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da39cbc7d5b08f70800000000000000
+      internalID: 9187543178277370582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 523
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9efd07cf39074190800000000000000
+      internalID: -7978398045336371553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_26
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 515
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36739a397fa3a0950800000000000000
+      internalID: 6416005454151366499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_27
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 490
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded1c95b335040800800000000000000
+      internalID: 577592371858644461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_28
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 515
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e577819a395d7ce0800000000000000
+      internalID: -1405869400585177629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 489
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19f7e9e47fe21c40800000000000000
+      internalID: 5481706981882853658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 473
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa923d85096f96980800000000000000
+      internalID: -8545027718132848209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 473
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407053ffeec7fa9f0800000000000000
+      internalID: -455007671415404796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 473
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a3019040bc03d0800000000000000
+      internalID: -3239020240628897628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 473
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339b94a8cc24d3570800000000000000
+      internalID: 8447981922277767475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 468
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10107b5e7ff1cec70800000000000000
+      internalID: 9001604904778137857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 468
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec64c18e4dabf30800000000000000
+      internalID: 4592216863429545623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_36
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 460
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9996cf692b96ca0800000000000000
+      internalID: -6023086665081710113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_37
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 460
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d904fa8925a29c030800000000000000
+      internalID: 3515387518376689821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_38
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 458
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd982b505151ab0800000000000000
+      internalID: -5038097493929632605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_39
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 458
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ccf549bd5398be0800000000000000
+      internalID: -1474588185783710589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_40
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 457
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8995e65d56c2830800000000000000
+      internalID: 4047722132453038263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_41
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 457
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2712800253f7b2df0800000000000000
+      internalID: -203929491967827598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 348
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05867f88c22fc030800000000000000
+      internalID: 3517068078795359502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 351
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d6cd79f795b00c0800000000000000
+      internalID: -4608491389140046554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 358
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17390dc4aa729770800000000000000
+      internalID: 8616083885346338586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 360
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4969c0c0bce95f0800000000000000
+      internalID: -747937235485682466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_46
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 361
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e14acf727020cc0800000000000000
+      internalID: -3746424071695098311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_47
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 328
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb43c60a82736cd0800000000000000
+      internalID: -2566081425526535188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_48
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 328
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23032c035fedd5d80800000000000000
+      internalID: -8260200996861235150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_49
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 361
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b8c6a718421fa70800000000000000
+      internalID: 8858902080537791306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_50
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 329
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248cc3942f752f210800000000000000
+      internalID: 1365250335169103938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_51
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 329
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de2faa4aa847ec80800000000000000
+      internalID: -8293580292544844076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 316
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d39f1853bcfd0660800000000000000
+      internalID: 7353811613773698008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 316
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059dceab03c2cea30800000000000000
+      internalID: 4245817136509671760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 317
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8ef30c414a62970800000000000000
+      internalID: 8729845336736000227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 317
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2bbe759b29e0fc0800000000000000
+      internalID: -3526720133442850091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 319
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989e52282e1a8c980800000000000000
+      internalID: -8518380700953089655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_57
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 319
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70a125614ab4e780800000000000000
+      internalID: -8654587793866907526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_58
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 324
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79866373314bd9f0800000000000000
+      internalID: -442688449130624641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_59
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 324
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd5f3058b3da300800000000000000
+      internalID: 264933395567861166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 217
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ed5953ab8a59ee0800000000000000
+      internalID: -1254911403436417522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 217
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f1ca21ee30004e0800000000000000
+      internalID: -2017608312011612408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 236
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbbadc723c420000800000000000000
+      internalID: 646729680206777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 212
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a3851bb09862320800000000000000
+      internalID: 2532862523755477512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 236
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4dbe3f21fd4cd40800000000000000
+      internalID: 5603849108850463924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 235
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899f41945c8955600800000000000000
+      internalID: 456438910350064024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_66
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 204
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0adf7c6914560ef0800000000000000
+      internalID: -142333870044358130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_67
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 235
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a04b8857848e50800000000000000
+      internalID: 6810717350854172689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_68
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 227
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fd0cd1f9520f880800000000000000
+      internalID: -8579315924811587756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_69
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 202
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2ab1d2f00995580800000000000000
+      internalID: -8837874398882192692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_70
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 227
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bba48e6198442a0800000000000000
+      internalID: -6754122809669403844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_71
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 201
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fef9d09d29a65a0800000000000000
+      internalID: -6527243248985968764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_72
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 185
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba6387ac990da7a0800000000000000
+      internalID: -6364420129974687052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_73
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 185
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63810e1531ec0e030800000000000000
+      internalID: 3522041490977069110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_74
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 185
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b41973c647fd1c70800000000000000
+      internalID: 8943576318326936756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_75
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 185
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43e3a8281e822ae0800000000000000
+      internalID: -1575540685214063797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_76
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 180
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00883e5f3f4412db0800000000000000
+      internalID: -4818494311716648960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 180
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16daa800eef49bb0800000000000000
+      internalID: -4930035453892307429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_78
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 172
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b31db864785dbca0800000000000000
+      internalID: -5999541871590960203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_79
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 172
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56270c8be6f87dfe0800000000000000
+      internalID: -1164304272943189403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_80
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 170
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeaaab0a128a5710800000000000000
+      internalID: 1682800459152797435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_81
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 170
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267451aaaa5402ea0800000000000000
+      internalID: -5899638912555071646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_82
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 169
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b20075b93ee530800000000000000
+      internalID: 3886106979898405277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_83
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 169
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb6463aae511bf0800000000000000
+      internalID: -355398810437501403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780b41bec92206410800000000000000
+      internalID: 1468211535877025927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 28
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46261811beda4c620800000000000000
+      internalID: 2793548893999161956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid-160x144_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 28
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817d0463483610470800000000000000
+      internalID: 8359071802873403160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pyramid-160x144_0: 2888813487156237378
+      Pyramid-160x144_1: -4895894967314726862
+      Pyramid-160x144_10: -2721017353234738165
+      Pyramid-160x144_11: -7608893565307468206
+      Pyramid-160x144_12: -3834467746569961216
+      Pyramid-160x144_13: -5550241674890744955
+      Pyramid-160x144_14: 2457951190040399760
+      Pyramid-160x144_15: -9112981501749230594
+      Pyramid-160x144_16: 8319485155191161575
+      Pyramid-160x144_17: 6680587372790672121
+      Pyramid-160x144_18: 7603235462255925957
+      Pyramid-160x144_19: -7381586527182779283
+      Pyramid-160x144_2: 4992442461069506728
+      Pyramid-160x144_20: -6604336162653597270
+      Pyramid-160x144_21: -92537581516010191
+      Pyramid-160x144_22: -8740454455179894242
+      Pyramid-160x144_23: -6755637088491859738
+      Pyramid-160x144_24: 9187543178277370582
+      Pyramid-160x144_25: -7978398045336371553
+      Pyramid-160x144_26: 6416005454151366499
+      Pyramid-160x144_27: 577592371858644461
+      Pyramid-160x144_28: -1405869400585177629
+      Pyramid-160x144_29: 5481706981882853658
+      Pyramid-160x144_3: -4951307556064192887
+      Pyramid-160x144_30: -8545027718132848209
+      Pyramid-160x144_31: -455007671415404796
+      Pyramid-160x144_32: -3239020240628897628
+      Pyramid-160x144_33: 8447981922277767475
+      Pyramid-160x144_34: 9001604904778137857
+      Pyramid-160x144_35: 4592216863429545623
+      Pyramid-160x144_36: -6023086665081710113
+      Pyramid-160x144_37: 3515387518376689821
+      Pyramid-160x144_38: -5038097493929632605
+      Pyramid-160x144_39: -1474588185783710589
+      Pyramid-160x144_4: 6060620307020168738
+      Pyramid-160x144_40: 4047722132453038263
+      Pyramid-160x144_41: -203929491967827598
+      Pyramid-160x144_42: 3517068078795359502
+      Pyramid-160x144_43: -4608491389140046554
+      Pyramid-160x144_44: 8616083885346338586
+      Pyramid-160x144_45: -747937235485682466
+      Pyramid-160x144_46: -3746424071695098311
+      Pyramid-160x144_47: -2566081425526535188
+      Pyramid-160x144_48: -8260200996861235150
+      Pyramid-160x144_49: 8858902080537791306
+      Pyramid-160x144_5: -7763644325932903622
+      Pyramid-160x144_50: 1365250335169103938
+      Pyramid-160x144_51: -8293580292544844076
+      Pyramid-160x144_52: 7353811613773698008
+      Pyramid-160x144_53: 4245817136509671760
+      Pyramid-160x144_54: 8729845336736000227
+      Pyramid-160x144_55: -3526720133442850091
+      Pyramid-160x144_56: -8518380700953089655
+      Pyramid-160x144_57: -8654587793866907526
+      Pyramid-160x144_58: -442688449130624641
+      Pyramid-160x144_59: 264933395567861166
+      Pyramid-160x144_6: -6631712915482228482
+      Pyramid-160x144_60: -1254911403436417522
+      Pyramid-160x144_61: -2017608312011612408
+      Pyramid-160x144_62: 646729680206777
+      Pyramid-160x144_63: 2532862523755477512
+      Pyramid-160x144_64: 5603849108850463924
+      Pyramid-160x144_65: 456438910350064024
+      Pyramid-160x144_66: -142333870044358130
+      Pyramid-160x144_67: 6810717350854172689
+      Pyramid-160x144_68: -8579315924811587756
+      Pyramid-160x144_69: -8837874398882192692
+      Pyramid-160x144_7: 6389605509718421443
+      Pyramid-160x144_70: -6754122809669403844
+      Pyramid-160x144_71: -6527243248985968764
+      Pyramid-160x144_72: -6364420129974687052
+      Pyramid-160x144_73: 3522041490977069110
+      Pyramid-160x144_74: 8943576318326936756
+      Pyramid-160x144_75: -1575540685214063797
+      Pyramid-160x144_76: -4818494311716648960
+      Pyramid-160x144_77: -4930035453892307429
+      Pyramid-160x144_78: -5999541871590960203
+      Pyramid-160x144_79: -1164304272943189403
+      Pyramid-160x144_8: -2458330623514592279
+      Pyramid-160x144_80: 1682800459152797435
+      Pyramid-160x144_81: -5899638912555071646
+      Pyramid-160x144_82: 3886106979898405277
+      Pyramid-160x144_83: -355398810437501403
+      Pyramid-160x144_84: 1468211535877025927
+      Pyramid-160x144_85: 2793548893999161956
+      Pyramid-160x144_86: 8359071802873403160
+      Pyramid-160x144_9: -8643019310771689781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

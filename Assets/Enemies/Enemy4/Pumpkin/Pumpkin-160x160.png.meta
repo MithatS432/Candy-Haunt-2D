@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 4e05e1fd082f2f549b7ce2ac6e64c6ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4859122098323958792
+    second: Pumpkin-160x160_0
+  - first:
+      213: 7803127869206149242
+    second: Pumpkin-160x160_1
+  - first:
+      213: 4062493302572523607
+    second: Pumpkin-160x160_2
+  - first:
+      213: 5153227803204944581
+    second: Pumpkin-160x160_3
+  - first:
+      213: 6832392913690761951
+    second: Pumpkin-160x160_4
+  - first:
+      213: -4737009200917707904
+    second: Pumpkin-160x160_5
+  - first:
+      213: -2270944014927835292
+    second: Pumpkin-160x160_6
+  - first:
+      213: -1291422494211236813
+    second: Pumpkin-160x160_7
+  - first:
+      213: 4436903131891416397
+    second: Pumpkin-160x160_8
+  - first:
+      213: 6911039801613833412
+    second: Pumpkin-160x160_9
+  - first:
+      213: -6453437010389688716
+    second: Pumpkin-160x160_10
+  - first:
+      213: -1213961246035550905
+    second: Pumpkin-160x160_11
+  - first:
+      213: -3694013175450142166
+    second: Pumpkin-160x160_12
+  - first:
+      213: -6145302241867922879
+    second: Pumpkin-160x160_13
+  - first:
+      213: -8118182759309913288
+    second: Pumpkin-160x160_14
+  - first:
+      213: -6929110246123500154
+    second: Pumpkin-160x160_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pumpkin-160x160_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ca9debdc11f6340800000000000000
+      internalID: 4859122098323958792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78bbfc44774a4c60800000000000000
+      internalID: 7803127869206149242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 137
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7502d3a7220e06830800000000000000
+      internalID: 4062493302572523607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 95
+        width: 154
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c282b05261f38740800000000000000
+      internalID: 5153227803204944581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_4
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 95
+        width: 146
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda1f6ac72981de50800000000000000
+      internalID: 6832392913690761951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_5
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 95
+        width: 142
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0830b81ca33c24eb0800000000000000
+      internalID: -4737009200917707904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_6
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 95
+        width: 198
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f4d6d437cfb70e0800000000000000
+      internalID: -2270944014927835292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_7
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 115
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c17917512f31ee0800000000000000
+      internalID: -1291422494211236813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_8
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 125
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4db43704eb039d30800000000000000
+      internalID: 4436903131891416397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_9
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 95
+        width: 190
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c457c35512f8ef50800000000000000
+      internalID: 6911039801613833412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_10
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 125
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e1d571b39c076a0800000000000000
+      internalID: -6453437010389688716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_11
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 115
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dd5f6bda4272fe0800000000000000
+      internalID: -1213961246035550905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 121
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a7ea1b69a3cbcc0800000000000000
+      internalID: -3694013175450142166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 121
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1420d049b2087baa0800000000000000
+      internalID: -6145302241867922879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d1a9dacb665f80800000000000000
+      internalID: -8118182759309913288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin-160x160_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d0a4271fad6df90800000000000000
+      internalID: -6929110246123500154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pumpkin-160x160_0: 4859122098323958792
+      Pumpkin-160x160_1: 7803127869206149242
+      Pumpkin-160x160_10: -6453437010389688716
+      Pumpkin-160x160_11: -1213961246035550905
+      Pumpkin-160x160_12: -3694013175450142166
+      Pumpkin-160x160_13: -6145302241867922879
+      Pumpkin-160x160_14: -8118182759309913288
+      Pumpkin-160x160_15: -6929110246123500154
+      Pumpkin-160x160_2: 4062493302572523607
+      Pumpkin-160x160_3: 5153227803204944581
+      Pumpkin-160x160_4: 6832392913690761951
+      Pumpkin-160x160_5: -4737009200917707904
+      Pumpkin-160x160_6: -2270944014927835292
+      Pumpkin-160x160_7: -1291422494211236813
+      Pumpkin-160x160_8: 4436903131891416397
+      Pumpkin-160x160_9: 6911039801613833412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
