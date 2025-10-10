@@ -1,7 +1,5 @@
 using UnityEngine;
 using System.Collections;
-using Microsoft.Win32.SafeHandles;
-using System.Security.Cryptography.X509Certificates;
 
 public class PlayerControl : MonoBehaviour
 {
@@ -10,10 +8,17 @@ public class PlayerControl : MonoBehaviour
     private Animator anim;
     private SpriteRenderer spr;
 
-    [Header("Movement")]
-    private float speed = 5f;
-    private float dashSpeed = 20f;
-    private float dashTime = 0.5f;
+    [Header("Movement Settings")]
+    public float moveSpeed = 5f;
+    private float dashDistance = 5f;
+    private float dashDuration = 0.15f;
+    private float dashCooldown = 1f;
+    private bool isDashing = false;
+    private bool canDash = true;
+    private bool isRunning = false;
+
+    public GameObject dashEffectPrefab;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -23,30 +28,81 @@ public class PlayerControl : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && canDash && !isDashing)
         {
-            StartCoroutine(Dash());
+            Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            Vector2 dashDir = ((Vector2)(mousePos - transform.position)).normalized;
+            StartCoroutine(Dash(dashDir));
         }
-        if (spr.flipX)
+    }
+
+    private IEnumerator Dash(Vector2 direction)
+    {
+        isDashing = true;
+        canDash = false;
+
+        Vector2 startPos = rb.position;
+        Vector2 targetPos = startPos + direction * dashDistance;
+
+        float elapsed = 0f;
+        float effectSpawnRate = 0.05f;
+        float effectTimer = 0f;
+
+        while (elapsed < dashDuration)
         {
-            spr.flipX = true;
+            rb.MovePosition(Vector2.Lerp(startPos, targetPos, elapsed / dashDuration));
+
+            effectTimer += Time.deltaTime;
+            if (effectTimer >= effectSpawnRate)
+            {
+                if (dashEffectPrefab)
+                {
+                    GameObject effect = Instantiate(dashEffectPrefab, transform.position, Quaternion.identity);
+                    Destroy(effect, 0.5f);
+                }
+                effectTimer = 0f;
+            }
+
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+
+        rb.MovePosition(targetPos);
+        isDashing = false;
+        yield return new WaitForSeconds(dashCooldown);
+        canDash = true;
+    }
+
+
+
+    private void FixedUpdate()
+    {
+        if (isDashing) return;
+        float x = Input.GetAxis("Horizontal");
+        float y = Input.GetAxis("Vertical");
+        Vector2 move = new Vector2(x, y).normalized;
+
+        rb.MovePosition(rb.position + move * moveSpeed * Time.fixedDeltaTime);
+        anim.SetFloat("Speed", move.magnitude);
+
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            if (!isRunning)
+            {
+                anim.SetTrigger("Run");
+                isRunning = true;
+            }
+            moveSpeed = 8f;
         }
         else
         {
-            spr.flipX = false;
+            moveSpeed = 5f;
+            isRunning = false;
         }
 
-    }
-    IEnumerator Dash()
-    {
-        rb.AddForce(transform.right * dashSpeed, ForceMode2D.Impulse);
-        yield return new WaitForSeconds(dashTime);
-        rb.linearVelocity = Vector2.zero;
-    }
-    private void FixedUpdate()
-    {
-        float x = Input.GetAxis("Horizontal");
-        float y = Input.GetAxis("Vertical");
-        transform.position += new Vector3(x, y, 0) * speed * Time.fixedDeltaTime;
+        if (x < 0)
+            spr.flipX = true;
+        else if (x > 0)
+            spr.flipX = false;
     }
 }
