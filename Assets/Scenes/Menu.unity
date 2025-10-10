@@ -1149,8 +1149,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playButton: {fileID: 60223791}
   howtoplayButton: {fileID: 1017269132}
-  howtoplayPanel: {fileID: 382015051}
   quitButton: {fileID: 371240071}
+  howtoplayPanel: {fileID: 382015051}
 --- !u!4 &1231172675
 Transform:
   m_ObjectHideFlags: 0
@@ -1492,7 +1492,7 @@ MonoBehaviour:
 
     Run:Left Shift
 
-    Jump:Space'
+    Dash:Space'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -1519,8 +1519,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 150
-  m_fontSizeBase: 150
+  m_fontSize: 159.06
+  m_fontSizeBase: 159.06
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 12
