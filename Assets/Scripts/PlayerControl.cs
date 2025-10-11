@@ -1,5 +1,7 @@
 using UnityEngine;
 using System.Collections;
+using TMPro;
+using UnityEngine.SceneManagement;
 
 public class PlayerControl : MonoBehaviour
 {
@@ -20,7 +22,24 @@ public class PlayerControl : MonoBehaviour
     [Header("Effects")]
     public GameObject dashEffectPrefab;
     [Header("Audio")]
-    public AudioClip dashSound;
+    public AudioClip dashSound, attackSound, spearThrowSound;
+
+    [Header("Attack Settings")]
+    private int attackCombo = 0;
+    private float comboResetTime = 2f;
+    private float lastAttackTime;
+    private bool isAttacking = false;
+    private float attackCooldown = 0.4f;
+    public GameObject spearPrefab;
+
+    [Header("Character Settings")]
+    private float damage = 20f;
+    private int health = 100;
+
+    [Header("UI Components")]
+    public TextMeshProUGUI healthText;
+    public TextMeshProUGUI scoreText;
+    public TextMeshProUGUI timerText;
 
     void Start()
     {
@@ -31,14 +50,55 @@ public class PlayerControl : MonoBehaviour
 
     void Update()
     {
+        if (Time.time - lastAttackTime > comboResetTime && attackCombo > 0)
+        {
+            attackCombo = 0;
+            anim.SetInteger("AttackCombo", 0);
+        }
+
         if (Input.GetKeyDown(KeyCode.Space) && canDash && !isDashing)
         {
             Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             Vector2 dashDir = ((Vector2)(mousePos - transform.position)).normalized;
             StartCoroutine(Dash(dashDir));
         }
+
+        if (Input.GetMouseButtonDown(0) && !isAttacking && Time.time - lastAttackTime > attackCooldown)
+        {
+            if (attackSound != null)
+            {
+                AudioSource.PlayClipAtPoint(attackSound, transform.position);
+            }
+            StartCoroutine(PerformAttack());
+        }
+
+        if (Input.GetMouseButtonDown(1) && spearPrefab != null)
+        {
+            if (spearThrowSound != null)
+            {
+                AudioSource.PlayClipAtPoint(spearThrowSound, transform.position);
+            }
+            anim.SetTrigger("SpearThrow");
+            GameObject spear = Instantiate(spearPrefab, transform.position, Quaternion.identity);
+            Destroy(spear, 2f);
+        }
     }
 
+    private IEnumerator PerformAttack()
+    {
+        isAttacking = true;
+
+        attackCombo++;
+        if (attackCombo > 2) attackCombo = 1;
+
+        anim.SetInteger("AttackCombo", attackCombo);
+        anim.SetTrigger("Attack");
+        lastAttackTime = Time.time;
+
+        yield return new WaitForSeconds(attackCooldown);
+
+        isAttacking = false;
+    }
     private IEnumerator Dash(Vector2 direction)
     {
         isDashing = true;
@@ -80,11 +140,10 @@ public class PlayerControl : MonoBehaviour
         canDash = true;
     }
 
-
-
     private void FixedUpdate()
     {
         if (isDashing) return;
+
         float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Vertical");
         Vector2 move = new Vector2(x, y).normalized;
