@@ -406,6 +406,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   dashEffectPrefab: {fileID: 4169010424921108499, guid: ec628cc4cd7703141beb80522bed501d, type: 3}
+  dashSound: {fileID: 8300000, guid: 6f8c175efcba001408963f4206b8baed, type: 3}
 --- !u!1 &1196464785
 GameObject:
   m_ObjectHideFlags: 0

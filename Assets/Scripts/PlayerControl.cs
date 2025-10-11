@@ -17,7 +17,10 @@ public class PlayerControl : MonoBehaviour
     private bool canDash = true;
     private bool isRunning = false;
 
+    [Header("Effects")]
     public GameObject dashEffectPrefab;
+    [Header("Audio")]
+    public AudioClip dashSound;
 
     void Start()
     {
@@ -59,6 +62,10 @@ public class PlayerControl : MonoBehaviour
                 {
                     GameObject effect = Instantiate(dashEffectPrefab, transform.position, Quaternion.identity);
                     Destroy(effect, 0.5f);
+                    if (dashSound != null)
+                    {
+                        AudioSource.PlayClipAtPoint(dashSound, transform.position);
+                    }
                 }
                 effectTimer = 0f;
             }
