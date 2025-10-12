@@ -41,7 +41,7 @@ public class PlayerControl : MonoBehaviour
     public TextMeshProUGUI healthText;
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI timerText;
-    private float time = 60f;
+    private float time = 180f;
     public GameObject gameOverPanel;
     public Button restartButton;
 
