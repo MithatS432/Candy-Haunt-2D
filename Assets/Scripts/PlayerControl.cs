@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 using TMPro;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerControl : MonoBehaviour
 {
@@ -40,12 +41,20 @@ public class PlayerControl : MonoBehaviour
     public TextMeshProUGUI healthText;
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI timerText;
+    private float time = 60f;
+    public GameObject gameOverPanel;
+    public Button restartButton;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spr = GetComponent<SpriteRenderer>();
+        restartButton.onClick.AddListener(() =>
+          {
+              SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+              Time.timeScale = 1f;
+          });
     }
 
     void Update()
@@ -82,7 +91,21 @@ public class PlayerControl : MonoBehaviour
             GameObject spear = Instantiate(spearPrefab, transform.position, Quaternion.identity);
             Destroy(spear, 2f);
         }
+        time -= Time.deltaTime;
+        timerText.text = "Time:" + Mathf.Max(0, Mathf.CeilToInt(time)).ToString();
+        if (time <= 0)
+        {
+            gameOverPanel.SetActive(true);
+            Invoke("RestartGame", 2f);
+        }
+
     }
+    void RestartGame()
+    {
+        restartButton.gameObject.SetActive(true);
+        Time.timeScale = 0f;
+    }
+
 
     private IEnumerator PerformAttack()
     {
