@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Spear
   - Enemy
+  - House
   layers:
   - Default
   - TransparentFX
