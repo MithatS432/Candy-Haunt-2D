@@ -23,7 +23,7 @@ public class PlayerControl : MonoBehaviour
     [Header("Effects")]
     public GameObject dashEffectPrefab;
     [Header("Audio")]
-    public AudioClip dashSound, attackSound, spearThrowSound;
+    public AudioClip dashSound, attackSound, spearThrowSound, boilerSound;
 
     [Header("Attack Settings")]
     private int attackCombo = 0;
@@ -40,10 +40,14 @@ public class PlayerControl : MonoBehaviour
     [Header("UI Components")]
     public TextMeshProUGUI healthText;
     public TextMeshProUGUI scoreText;
+    private int score = 0;
     public TextMeshProUGUI timerText;
     private float time = 180f;
     public GameObject gameOverPanel;
     public Button restartButton;
+    public TextMeshProUGUI houseCountText;
+    private int houseCount = 10;
+    public GameObject winPanel;
 
     void Start()
     {
@@ -104,6 +108,10 @@ public class PlayerControl : MonoBehaviour
     {
         restartButton.gameObject.SetActive(true);
         Time.timeScale = 0f;
+    }
+    void MainMenu()
+    {
+        SceneManager.LoadScene("Menu");
     }
 
 
@@ -193,5 +201,22 @@ public class PlayerControl : MonoBehaviour
             spr.flipX = true;
         else if (x > 0)
             spr.flipX = false;
+    }
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Boiler"))
+        {
+            Destroy(other.gameObject);
+            AudioSource.PlayClipAtPoint(boilerSound, transform.position);
+            houseCount--;
+            houseCountText.text = ":" + houseCount.ToString();
+            score += 50;
+            scoreText.text = "Score:" + score.ToString();
+            if (houseCount <= 0)
+            {
+                winPanel.SetActive(true);
+                Invoke("MainMenu", 7f);
+            }
+        }
     }
 }
