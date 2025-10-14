@@ -49,6 +49,9 @@ public class PlayerControl : MonoBehaviour
     private int houseCount = 10;
     public GameObject winPanel;
 
+    [Header("Boiler1")]
+    public GameObject[] ghosts;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -217,6 +220,23 @@ public class PlayerControl : MonoBehaviour
                 winPanel.SetActive(true);
                 Invoke("MainMenu", 7f);
             }
+            if (houseCount == 9)
+            {
+                foreach (GameObject ghost in ghosts)
+                {
+                    ghost.SetActive(true);
+                }
+            }
+        }
+    }
+    public void GetDamage(float damage)
+    {
+        health -= (int)damage;
+        healthText.text = health.ToString();
+        if (health <= 0)
+        {
+            gameOverPanel.SetActive(true);
+            Invoke("RestartGame", 2f);
         }
     }
 }
