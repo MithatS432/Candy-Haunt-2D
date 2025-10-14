@@ -192,4 +192,5 @@ MonoBehaviour:
   damage: 3
   health: 15
   speed: 2
-  deathSound: {fileID: 0}
+  deathSound: {fileID: 8300000, guid: 637700c3c076ec441a848a5e6bef1b63, type: 3}
+  deathEffect: {fileID: 8374526071704126591, guid: d13453d041739014c8d3482aaeb1d226, type: 3}

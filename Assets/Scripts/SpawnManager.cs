@@ -2,15 +2,20 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public GameObject[] enemyPrefabs;
+    public Transform[] spawnPoints;
+    public bool SpawnEnemies(bool value)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if (value)
+        {
+            while (!PlayerControl.isAlive)
+            {
+                int randomIndex = Random.Range(0, enemyPrefabs.Length);
+                int randomSpawnPoint = Random.Range(0, spawnPoints.Length);
+                Instantiate(enemyPrefabs[randomIndex], spawnPoints[randomSpawnPoint].position, Quaternion.identity);
+                return false;
+            }
+        }
+        return true;
     }
 }

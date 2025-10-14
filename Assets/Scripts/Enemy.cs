@@ -8,7 +8,8 @@ public class Enemy : MonoBehaviour
     public float speed;
     private Transform player;
 
-    public AudioSource deathSound;
+    public AudioClip deathSound;
+    public GameObject deathEffect;
     void Start()
     {
         erb = GetComponent<Rigidbody2D>();
@@ -25,8 +26,10 @@ public class Enemy : MonoBehaviour
         health -= damage;
         if (health <= 0)
         {
+            GameObject effect = Instantiate(deathEffect, transform.position, Quaternion.identity);
+            Destroy(effect, 1f);
             Destroy(gameObject);
-            deathSound.Play();
+            AudioSource.PlayClipAtPoint(deathSound, transform.position);
         }
     }
     private void OnTriggerEnter2D(Collider2D other)
@@ -34,6 +37,7 @@ public class Enemy : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             other.GetComponent<PlayerControl>().GetDamage(damage);
+            AudioSource.PlayClipAtPoint(deathSound, transform.position);
             Destroy(gameObject);
         }
     }

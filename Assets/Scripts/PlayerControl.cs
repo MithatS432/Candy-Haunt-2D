@@ -51,6 +51,10 @@ public class PlayerControl : MonoBehaviour
 
     [Header("Boiler1")]
     public GameObject[] ghosts;
+    
+    [Header("Game Settings")]
+    public bool isSpawned = false;
+    public static bool isAlive = true;
 
     void Start()
     {
@@ -229,12 +233,23 @@ public class PlayerControl : MonoBehaviour
             }
         }
     }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Sound"))
+        {
+            AudioSource.PlayClipAtPoint(other.gameObject.GetComponent<AudioSource>().clip, transform.position);
+            isSpawned = true;
+            SpawnManager spawnManager = Object.FindAnyObjectByType<SpawnManager>();
+            spawnManager.SpawnEnemies(isSpawned);
+        }
+    }
     public void GetDamage(float damage)
     {
         health -= (int)damage;
         healthText.text = health.ToString();
         if (health <= 0)
         {
+            isAlive = false;
             gameOverPanel.SetActive(true);
             Invoke("RestartGame", 2f);
         }
