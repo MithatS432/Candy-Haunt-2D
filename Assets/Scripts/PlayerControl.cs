@@ -261,7 +261,7 @@ public class PlayerControl : MonoBehaviour
         if (hurtEffectPrefab != null)
         {
             GameObject hurtEffect = Instantiate(hurtEffectPrefab, transform.position, Quaternion.identity);
-            Destroy(hurtEffect, 0.5f);
+            Destroy(hurtEffect, 1.5f);
         }
         if (health <= 0)
         {
