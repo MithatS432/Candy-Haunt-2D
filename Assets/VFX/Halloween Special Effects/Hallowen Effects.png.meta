@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 963200c2e5f0fe04e87000c6ac408eaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8639807990448779320
+    second: Hallowen Effects_0
+  - first:
+      213: 153088367295893304
+    second: Hallowen Effects_1
+  - first:
+      213: 7638828173970528301
+    second: Hallowen Effects_2
+  - first:
+      213: 4691456473931259510
+    second: Hallowen Effects_3
+  - first:
+      213: 3798223587092641506
+    second: Hallowen Effects_4
+  - first:
+      213: -1767955465244566415
+    second: Hallowen Effects_5
+  - first:
+      213: 6341745424420499131
+    second: Hallowen Effects_6
+  - first:
+      213: -3201415754806655230
+    second: Hallowen Effects_7
+  - first:
+      213: -4436841915216949109
+    second: Hallowen Effects_8
+  - first:
+      213: -5446657224021553463
+    second: Hallowen Effects_9
+  - first:
+      213: 6220120265839475067
+    second: Hallowen Effects_10
+  - first:
+      213: 3647358336509759292
+    second: Hallowen Effects_11
+  - first:
+      213: -2727586808828219533
+    second: Hallowen Effects_12
+  - first:
+      213: 70796676513870890
+    second: Hallowen Effects_13
+  - first:
+      213: -6260173621567896901
+    second: Hallowen Effects_14
+  - first:
+      213: 9217673583938163745
+    second: Hallowen Effects_15
+  - first:
+      213: 2640937786160502502
+    second: Hallowen Effects_16
+  - first:
+      213: -7811487528042894211
+    second: Hallowen Effects_17
+  - first:
+      213: -1403018223118868449
+    second: Hallowen Effects_18
+  - first:
+      213: 3317793638635605341
+    second: Hallowen Effects_19
+  - first:
+      213: 2138684806958813866
+    second: Hallowen Effects_20
+  - first:
+      213: 610592219433196127
+    second: Hallowen Effects_21
+  - first:
+      213: 5596338779850362787
+    second: Hallowen Effects_22
+  - first:
+      213: 646891209009249072
+    second: Hallowen Effects_23
+  - first:
+      213: -7646464629125367518
+    second: Hallowen Effects_24
+  - first:
+      213: -7353455709322840429
+    second: Hallowen Effects_25
+  - first:
+      213: 1156296931643799104
+    second: Hallowen Effects_26
+  - first:
+      213: 117436497478860999
+    second: Hallowen Effects_27
+  - first:
+      213: 5902573104464487017
+    second: Hallowen Effects_28
+  - first:
+      213: 5007501632687098420
+    second: Hallowen Effects_29
+  - first:
+      213: -3157696421683391401
+    second: Hallowen Effects_30
+  - first:
+      213: -8442310040001253966
+    second: Hallowen Effects_31
+  - first:
+      213: 2065763324181378752
+    second: Hallowen Effects_32
+  - first:
+      213: 6317638539809019086
+    second: Hallowen Effects_33
+  - first:
+      213: -3764172786757326783
+    second: Hallowen Effects_34
+  - first:
+      213: -6081846095290271395
+    second: Hallowen Effects_35
+  - first:
+      213: -6226750607503377264
+    second: Hallowen Effects_36
+  - first:
+      213: -4416551074046860376
+    second: Hallowen Effects_37
+  - first:
+      213: -4859670161992935469
+    second: Hallowen Effects_38
+  - first:
+      213: 2780309110580576966
+    second: Hallowen Effects_39
+  - first:
+      213: 6942304017189448902
+    second: Hallowen Effects_40
+  - first:
+      213: 5822310359958657766
+    second: Hallowen Effects_41
+  - first:
+      213: -1356036944304349368
+    second: Hallowen Effects_42
+  - first:
+      213: -8417003492785281522
+    second: Hallowen Effects_43
+  - first:
+      213: 241153205401352003
+    second: Hallowen Effects_44
+  - first:
+      213: -7116681446964512273
+    second: Hallowen Effects_45
+  - first:
+      213: 4412336155469006531
+    second: Hallowen Effects_46
+  - first:
+      213: -7039736378487137039
+    second: Hallowen Effects_47
+  - first:
+      213: 5183518094744979559
+    second: Hallowen Effects_48
+  - first:
+      213: 7329435569156782372
+    second: Hallowen Effects_49
+  - first:
+      213: -7035111815927527911
+    second: Hallowen Effects_50
+  - first:
+      213: -493645449780460590
+    second: Hallowen Effects_51
+  - first:
+      213: 7346064950790490451
+    second: Hallowen Effects_52
+  - first:
+      213: 3922017476184054245
+    second: Hallowen Effects_53
+  - first:
+      213: -3325275020098373240
+    second: Hallowen Effects_54
+  - first:
+      213: 7539756793559571737
+    second: Hallowen Effects_55
+  - first:
+      213: 473479943964802761
+    second: Hallowen Effects_56
+  - first:
+      213: 3641531385753434479
+    second: Hallowen Effects_57
+  - first:
+      213: -5137498475412705274
+    second: Hallowen Effects_58
+  - first:
+      213: -2172136816969575877
+    second: Hallowen Effects_59
+  - first:
+      213: 2965430175301223495
+    second: Hallowen Effects_60
+  - first:
+      213: -7725394816704866948
+    second: Hallowen Effects_61
+  - first:
+      213: -5340868010818657132
+    second: Hallowen Effects_62
+  - first:
+      213: 429803861430334942
+    second: Hallowen Effects_63
+  - first:
+      213: -8689675617402500741
+    second: Hallowen Effects_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hallowen Effects_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 810
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf08b9886c391880800000000000000
+      internalID: -8639807990448779320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 801
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f8ae71f01ef1200800000000000000
+      internalID: 153088367295893304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 804
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2852c180c1920a60800000000000000
+      internalID: 7638828173970528301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_3
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 788
+        width: 103
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e11ef7ec66b1140800000000000000
+      internalID: 4691456473931259510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_4
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 828
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ba268a3006b430800000000000000
+      internalID: 3798223587092641506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 694
+        width: 132
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c13631fd5f677e0800000000000000
+      internalID: -1767955465244566415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 615
+        width: 193
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeea8e0dd7620850800000000000000
+      internalID: 6341745424420499131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 789
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207096435594293d0800000000000000
+      internalID: -3201415754806655230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 783
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b801ee619cb2d62c0800000000000000
+      internalID: -4436841915216949109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_9
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 768
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce41e4cc169964b0800000000000000
+      internalID: -5446657224021553463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_10
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 710
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79f1991d6e425650800000000000000
+      internalID: 6220120265839475067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 709
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f493025150e9230800000000000000
+      internalID: 3647358336509759292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 664
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fa0cdaf3aa52ad0800000000000000
+      internalID: -2727586808828219533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_13
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 595
+        width: 229
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2433e2c3358bf000800000000000000
+      internalID: 70796676513870890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 649
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2cc2e42456f19a0800000000000000
+      internalID: -6260173621567896901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 626
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124d22a8941cbef70800000000000000
+      internalID: 9217673583938163745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_16
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 629
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6d00a9cee76a420800000000000000
+      internalID: 2640937786160502502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ceb93fa75089390800000000000000
+      internalID: -7811487528042894211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 587
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a99d0c5a778ce0800000000000000
+      internalID: -1403018223118868449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 606
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d0de46cbb2b0e20800000000000000
+      internalID: 3317793638635605341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_20
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 585
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21e4d20822ead10800000000000000
+      internalID: 2138684806958813866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 329
+        width: 310
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5adee57362497800800000000000000
+      internalID: 610592219433196127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_22
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 559
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af49b738703aad40800000000000000
+      internalID: 5596338779850362787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_23
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 531
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bb15190283af800800000000000000
+      internalID: 646891209009249072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 187
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229b469beec42e590800000000000000
+      internalID: -7646464629125367518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 502
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3967e3e1ef643f990800000000000000
+      internalID: -7353455709322840429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_26
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 398
+        width: 131
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046b089deedfb0010800000000000000
+      internalID: 1156296931643799104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 474
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0c4eb4fd731a100800000000000000
+      internalID: 117436497478860999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_28
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 488
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962616027f62ae150800000000000000
+      internalID: 5902573104464487017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 479
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ac08c34383e7540800000000000000
+      internalID: 5007501632687098420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_30
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 373
+        width: 120
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7541a0da5db9d24d0800000000000000
+      internalID: -3157696421683391401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 449
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bde2067fb3e6da80800000000000000
+      internalID: -8442310040001253966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_32
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 391
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c67cd76cc01bac10800000000000000
+      internalID: 2065763324181378752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 387
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec452a897c2cca750800000000000000
+      internalID: 6317638539809019086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148232c3bc8f2cbc0800000000000000
+      internalID: -3764172786757326783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_35
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 344
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5970a70331f89ba0800000000000000
+      internalID: -6081846095290271395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 248
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c30de20532699a0800000000000000
+      internalID: -6226750607503377264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_37
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 297
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32113b23245b2c0800000000000000
+      internalID: -4416551074046860376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_38
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 296
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d798dc3cbbfe8cb0800000000000000
+      internalID: -4859670161992935469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_39
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 132
+        width: 160
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c200f5c764a59620800000000000000
+      internalID: 2780309110580576966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_40
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 184
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc2853c8b4085060800000000000000
+      internalID: 6942304017189448902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 243
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea9969ac600dc050800000000000000
+      internalID: 5822310359958657766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 108
+        width: 181
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fde6075936e2de0800000000000000
+      internalID: -1356036944304349368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_43
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 192
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06af432bebc03b80800000000000000
+      internalID: -8417003492785281522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347f468009fb85300800000000000000
+      internalID: 241153205401352003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_45
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 169
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe931160ee77c3d90800000000000000
+      internalID: -7116681446964512273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 79
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c7581b54cb3d30800000000000000
+      internalID: 4412336155469006531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_47
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 121
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc11e7df05dd4e90800000000000000
+      internalID: -7039736378487137039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_48
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 123
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76885146e3e8fe740800000000000000
+      internalID: 5183518094744979559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_49
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 94
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429f3bf21d267b560800000000000000
+      internalID: 7329435569156782372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9168c78b3134e5e90800000000000000
+      internalID: -7035111815927527911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_51
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d309d034183629f0800000000000000
+      internalID: -493645449780460590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_52
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35980d0d62772f560800000000000000
+      internalID: 7346064950790490451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_53
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 43
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e913d66d1ecd6630800000000000000
+      internalID: 3922017476184054245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_54
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8897e8ebcff3ad1d0800000000000000
+      internalID: -3325275020098373240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_55
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 0
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dd4fc3bd892a860800000000000000
+      internalID: 7539756793559571737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce3b4c1083229600800000000000000
+      internalID: 473479943964802761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_57
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 44
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69f44e6081598230800000000000000
+      internalID: 3641531385753434479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_58
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 39
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6003ae23b50f3b8b0800000000000000
+      internalID: -5137498475412705274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_59
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 44
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b321bfcc2150bd1e0800000000000000
+      internalID: -2172136816969575877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_60
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 39
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744cd0d6803572920800000000000000
+      internalID: 2965430175301223495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_61
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 39
+        width: 81
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7599a85852e9c490800000000000000
+      internalID: -7725394816704866948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_62
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49428ee57dc61e5b0800000000000000
+      internalID: -5340868010818657132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_63
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 0
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed575a3b558f6f500800000000000000
+      internalID: 429803861430334942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallowen Effects_64
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 0
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79c95bd012186780800000000000000
+      internalID: -8689675617402500741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hallowen Effects_0: -8639807990448779320
+      Hallowen Effects_1: 153088367295893304
+      Hallowen Effects_10: 6220120265839475067
+      Hallowen Effects_11: 3647358336509759292
+      Hallowen Effects_12: -2727586808828219533
+      Hallowen Effects_13: 70796676513870890
+      Hallowen Effects_14: -6260173621567896901
+      Hallowen Effects_15: 9217673583938163745
+      Hallowen Effects_16: 2640937786160502502
+      Hallowen Effects_17: -7811487528042894211
+      Hallowen Effects_18: -1403018223118868449
+      Hallowen Effects_19: 3317793638635605341
+      Hallowen Effects_2: 7638828173970528301
+      Hallowen Effects_20: 2138684806958813866
+      Hallowen Effects_21: 610592219433196127
+      Hallowen Effects_22: 5596338779850362787
+      Hallowen Effects_23: 646891209009249072
+      Hallowen Effects_24: -7646464629125367518
+      Hallowen Effects_25: -7353455709322840429
+      Hallowen Effects_26: 1156296931643799104
+      Hallowen Effects_27: 117436497478860999
+      Hallowen Effects_28: 5902573104464487017
+      Hallowen Effects_29: 5007501632687098420
+      Hallowen Effects_3: 4691456473931259510
+      Hallowen Effects_30: -3157696421683391401
+      Hallowen Effects_31: -8442310040001253966
+      Hallowen Effects_32: 2065763324181378752
+      Hallowen Effects_33: 6317638539809019086
+      Hallowen Effects_34: -3764172786757326783
+      Hallowen Effects_35: -6081846095290271395
+      Hallowen Effects_36: -6226750607503377264
+      Hallowen Effects_37: -4416551074046860376
+      Hallowen Effects_38: -4859670161992935469
+      Hallowen Effects_39: 2780309110580576966
+      Hallowen Effects_4: 3798223587092641506
+      Hallowen Effects_40: 6942304017189448902
+      Hallowen Effects_41: 5822310359958657766
+      Hallowen Effects_42: -1356036944304349368
+      Hallowen Effects_43: -8417003492785281522
+      Hallowen Effects_44: 241153205401352003
+      Hallowen Effects_45: -7116681446964512273
+      Hallowen Effects_46: 4412336155469006531
+      Hallowen Effects_47: -7039736378487137039
+      Hallowen Effects_48: 5183518094744979559
+      Hallowen Effects_49: 7329435569156782372
+      Hallowen Effects_5: -1767955465244566415
+      Hallowen Effects_50: -7035111815927527911
+      Hallowen Effects_51: -493645449780460590
+      Hallowen Effects_52: 7346064950790490451
+      Hallowen Effects_53: 3922017476184054245
+      Hallowen Effects_54: -3325275020098373240
+      Hallowen Effects_55: 7539756793559571737
+      Hallowen Effects_56: 473479943964802761
+      Hallowen Effects_57: 3641531385753434479
+      Hallowen Effects_58: -5137498475412705274
+      Hallowen Effects_59: -2172136816969575877
+      Hallowen Effects_6: 6341745424420499131
+      Hallowen Effects_60: 2965430175301223495
+      Hallowen Effects_61: -7725394816704866948
+      Hallowen Effects_62: -5340868010818657132
+      Hallowen Effects_63: 429803861430334942
+      Hallowen Effects_64: -8689675617402500741
+      Hallowen Effects_7: -3201415754806655230
+      Hallowen Effects_8: -4436841915216949109
+      Hallowen Effects_9: -5446657224021553463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

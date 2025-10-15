@@ -22,8 +22,9 @@ public class PlayerControl : MonoBehaviour
 
     [Header("Effects")]
     public GameObject dashEffectPrefab;
+
     [Header("Audio")]
-    public AudioClip dashSound, attackSound, spearThrowSound, boilerSound;
+    public AudioClip dashSound, attackSound, spearThrowSound, boilerSound, deadSound;
 
     [Header("Attack Settings")]
     private int attackCombo = 0;
@@ -36,6 +37,7 @@ public class PlayerControl : MonoBehaviour
     [Header("Character Settings")]
     private float damage = 20f;
     private int health = 100;
+    public GameObject hurtEffectPrefab;
 
     [Header("UI Components")]
     public TextMeshProUGUI healthText;
@@ -51,7 +53,7 @@ public class PlayerControl : MonoBehaviour
 
     [Header("Boiler1")]
     public GameObject[] ghosts;
-    
+
     [Header("Game Settings")]
     public bool isSpawned = false;
     public static bool isAlive = true;
@@ -233,23 +235,41 @@ public class PlayerControl : MonoBehaviour
             }
         }
     }
+    public int GetHouseCount()
+    {
+        return houseCount;
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Sound"))
         {
             AudioSource.PlayClipAtPoint(other.gameObject.GetComponent<AudioSource>().clip, transform.position);
-            isSpawned = true;
-            SpawnManager spawnManager = Object.FindAnyObjectByType<SpawnManager>();
-            spawnManager.SpawnEnemies(isSpawned);
+            if (!isSpawned)
+            {
+                isSpawned = true;
+                SpawnManager spawnManager = FindAnyObjectByType<SpawnManager>();
+                spawnManager.StartSpawning();
+            }
         }
     }
+
     public void GetDamage(float damage)
     {
         health -= (int)damage;
         healthText.text = health.ToString();
+        if (hurtEffectPrefab != null)
+        {
+            GameObject hurtEffect = Instantiate(hurtEffectPrefab, transform.position, Quaternion.identity);
+            Destroy(hurtEffect, 0.5f);
+        }
         if (health <= 0)
         {
             isAlive = false;
+            if (deadSound != null)
+            {
+                AudioSource.PlayClipAtPoint(deadSound, transform.position);
+            }
             gameOverPanel.SetActive(true);
             Invoke("RestartGame", 2f);
         }
