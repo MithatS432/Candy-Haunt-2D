@@ -35,7 +35,6 @@ public class PlayerControl : MonoBehaviour
     public GameObject spearPrefab;
 
     [Header("Character Settings")]
-    private float damage = 20f;
     private int health = 100;
     public GameObject hurtEffectPrefab;
 
@@ -57,6 +56,7 @@ public class PlayerControl : MonoBehaviour
     [Header("Game Settings")]
     public bool isSpawned = false;
     public static bool isAlive = true;
+    public GameObject soundTrigger;
 
     void Start()
     {
@@ -127,7 +127,11 @@ public class PlayerControl : MonoBehaviour
     private IEnumerator PerformAttack()
     {
         isAttacking = true;
-
+        PlayerAttack playerAttack = GetComponent<PlayerAttack>();
+        if (playerAttack != null)
+        {
+            playerAttack.Attack();
+        }
         attackCombo++;
         if (attackCombo > 2) attackCombo = 1;
 
@@ -245,6 +249,7 @@ public class PlayerControl : MonoBehaviour
         if (other.gameObject.CompareTag("Sound"))
         {
             AudioSource.PlayClipAtPoint(other.gameObject.GetComponent<AudioSource>().clip, transform.position);
+            soundTrigger.SetActive(false);
             if (!isSpawned)
             {
                 isSpawned = true;

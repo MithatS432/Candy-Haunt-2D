@@ -13,6 +13,10 @@ PrefabInstance:
       value: pumpkinAnim
       objectReference: {fileID: 0}
     - target: {fileID: -2253911629886400664, guid: 65bd45596461c44439e225dcf328bcd3, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -2253911629886400664, guid: 65bd45596461c44439e225dcf328bcd3, type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}

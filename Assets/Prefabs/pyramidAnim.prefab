@@ -13,6 +13,10 @@ PrefabInstance:
       value: pyramidAnim
       objectReference: {fileID: 0}
     - target: {fileID: -2253911629886400664, guid: b8c0152ed1072f04ebea9812263d447b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -2253911629886400664, guid: b8c0152ed1072f04ebea9812263d447b, type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}

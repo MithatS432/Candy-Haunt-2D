@@ -10,7 +10,7 @@ public class SpawnManager : MonoBehaviour
 
     private void Start()
     {
-        
+
     }
 
     public void StartSpawning()
@@ -35,7 +35,12 @@ public class SpawnManager : MonoBehaviour
 
             int randomEnemy = Random.Range(0, enemyPrefabs.Length);
             int randomSpawn = Random.Range(0, spawnPoints.Length);
-            Instantiate(enemyPrefabs[randomEnemy], spawnPoints[randomSpawn].position, Quaternion.identity);
+            Instantiate(enemyPrefabs[randomEnemy],
+            new Vector3(spawnPoints[randomSpawn].position.x,
+                        spawnPoints[randomSpawn].position.y,
+                        0f),
+            Quaternion.identity);
+
 
             yield return new WaitForSeconds(spawnInterval);
         }

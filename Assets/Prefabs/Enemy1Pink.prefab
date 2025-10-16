@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 59500281800499180}
   - component: {fileID: 8338406575120358029}
   - component: {fileID: 8468366558804828583}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Enemy1Pink
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -79,7 +79,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 0
   m_Sprite: {fileID: -6892535946375523932, guid: ff265fa8fdcbea14abb26cf3a39ae0fc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

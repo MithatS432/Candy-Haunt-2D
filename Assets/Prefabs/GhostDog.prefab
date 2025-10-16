@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5634786285235055445}
   - component: {fileID: 6938052173894129287}
   - component: {fileID: 197750878373964129}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GhostDog
   m_TagString: Enemy
   m_Icon: {fileID: 0}
