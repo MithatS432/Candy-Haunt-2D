@@ -9,6 +9,7 @@ TagManager:
   - House
   - Boiler
   - Sound
+  - AttackSpear
   layers:
   - Default
   - TransparentFX

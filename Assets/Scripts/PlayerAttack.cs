@@ -1,63 +1,68 @@
 using UnityEngine;
+using System.Collections;
+using System.Collections.Generic; 
+
 public class PlayerAttack : MonoBehaviour
 {
-    private float damage = 20f;
-    private float attackRange = 1f;
-    [SerializeField] private LayerMask enemyLayer;
+    [Header("Attack Settings")]
+    public float damage = 20f;
+    public float attackDuration = 0.2f;
+
+    [Header("References")]
+    [SerializeField] private Collider2D attackCollider;
+    [SerializeField] private Transform attackPoint;
     private Animator anim;
     private SpriteRenderer spr;
+
+    private List<Collider2D> hitEnemies = new List<Collider2D>(); 
 
     void Start()
     {
         anim = GetComponent<Animator>();
         spr = GetComponent<SpriteRenderer>();
-        if (enemyLayer.value == 0)
-            enemyLayer = LayerMask.GetMask("Enemy");
+        if (attackCollider != null)
+            attackCollider.enabled = false;
+    }
+
+    void Update()
+    {
+        if (attackCollider != null && attackPoint != null)
+        {
+            attackCollider.transform.position = attackPoint.position;
+
+            Vector3 scale = attackCollider.transform.localScale;
+            scale.x = spr.flipX ? -Mathf.Abs(scale.x) : Mathf.Abs(scale.x);
+            attackCollider.transform.localScale = scale;
+        }
     }
 
     public void Attack()
     {
-        Debug.Log("Attack method called!");
+        anim.SetTrigger("Attack");
+        hitEnemies.Clear(); 
+        StartCoroutine(EnableColliderMomentarily());
+    }
 
-        Vector2 attackPos = (Vector2)transform.position + (GetAttackDirection() * attackRange * 0.5f);
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPos, attackRange, enemyLayer);
+    private IEnumerator EnableColliderMomentarily()
+    {
+        attackCollider.enabled = true;
+        yield return new WaitForSeconds(attackDuration);
+        attackCollider.enabled = false;
+    }
 
-        Debug.Log("Hit " + hitEnemies.Length + " enemies");
-
-        foreach (Collider2D enemy in hitEnemies)
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Enemy") && !hitEnemies.Contains(other))
         {
-            Debug.Log("Hit enemy: " + enemy.name);
-            Enemy enemyComponent = enemy.GetComponent<Enemy>();
-            if (enemyComponent != null)
+            Enemy enemy = other.GetComponent<Enemy>();
+            
+            if (enemy != null)
             {
-                enemyComponent.GetDamage(damage);
+                // Düşmana hasar ver
+                enemy.GetDamage(damage);
+                
+                hitEnemies.Add(other); 
             }
         }
     }
-
-    private Vector2 GetAttackDirection()
-    {
-        if (spr == null)
-        {
-            spr = GetComponent<SpriteRenderer>();
-            if (spr == null)
-                return Vector2.right;
-        }
-        return spr.flipX ? Vector2.left : Vector2.right;
-    }
-
-
-    void OnDrawGizmosSelected()
-    {
-        if (spr == null)
-            spr = GetComponent<SpriteRenderer>();
-
-        if (spr == null)
-            return;
-
-        Gizmos.color = Color.red;
-        Vector2 attackPos = (Vector2)transform.position + (GetAttackDirection() * attackRange * 0.5f);
-        Gizmos.DrawWireSphere(attackPos, attackRange);
-    }
-
 }

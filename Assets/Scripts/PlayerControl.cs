@@ -87,6 +87,11 @@ public class PlayerControl : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0) && !isAttacking && Time.time - lastAttackTime > attackCooldown)
         {
+            PlayerAttack playerAttack = GetComponent<PlayerAttack>();
+            if (playerAttack != null)
+            {
+                playerAttack.Attack();
+            }
             if (attackSound != null)
             {
                 AudioSource.PlayClipAtPoint(attackSound, transform.position);
@@ -127,11 +132,6 @@ public class PlayerControl : MonoBehaviour
     private IEnumerator PerformAttack()
     {
         isAttacking = true;
-        PlayerAttack playerAttack = GetComponent<PlayerAttack>();
-        if (playerAttack != null)
-        {
-            playerAttack.Attack();
-        }
         attackCombo++;
         if (attackCombo > 2) attackCombo = 1;
 
