@@ -1,43 +1,56 @@
 using UnityEngine;
+using System.Collections;
 
 public class PlayerAttack : MonoBehaviour
 {
     public float damage = 20f;
-
-    private Animator anim;
     [SerializeField] private Collider2D attackCollider;
+    public float attackDuration = 0.3f;
+    public float attackCooldown = 0.2f;
 
-    void Start()
+    private bool canAttack = true;
+    private bool isAttacking = false;
+
+    private void Awake()
     {
-        anim = GetComponent<Animator>();
-
         if (attackCollider != null)
             attackCollider.enabled = false;
     }
 
     public void Attack()
     {
-        anim.SetTrigger("Attack");
+        if (canAttack && !isAttacking)
+        {
+            StartCoroutine(PerformAttack());
+        }
     }
 
-    public void EnableAttackCollider()
+    private IEnumerator PerformAttack()
     {
-        if (attackCollider != null)
-            attackCollider.enabled = true;
+        canAttack = false;
+        isAttacking = true;
+
+        // Collider'ı aç
+        attackCollider.enabled = true;
+
+        // Collider açık kalma süresi
+        yield return new WaitForSeconds(0.2f); // 0.1 yerine 0.2 deneyebilirsin
+
+        // Collider'ı kapat
+        attackCollider.enabled = false;
+        isAttacking = false;
+
+        // Saldırı bekleme süresi
+        yield return new WaitForSeconds(attackCooldown);
+        canAttack = true;
     }
 
-    public void DisableAttackCollider()
-    {
-        if (attackCollider != null)
-            attackCollider.enabled = false;
-    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy"))
+        if (isAttacking && other.CompareTag("Enemy"))
         {
             Enemy enemy = other.GetComponent<Enemy>();
-
             if (enemy != null)
             {
                 enemy.GetDamage(damage);

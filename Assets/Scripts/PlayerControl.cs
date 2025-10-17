@@ -33,6 +33,7 @@ public class PlayerControl : MonoBehaviour
     private bool isAttacking = false;
     private float attackCooldown = 0.4f;
     public GameObject spearPrefab;
+    public PlayerAttack playerAttack;
 
     [Header("Character Settings")]
     private int health = 100;
@@ -63,6 +64,7 @@ public class PlayerControl : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spr = GetComponent<SpriteRenderer>();
+        playerAttack = GetComponentInChildren<PlayerAttack>();
         restartButton.onClick.AddListener(() =>
           {
               SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
@@ -87,7 +89,7 @@ public class PlayerControl : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0) && !isAttacking && Time.time - lastAttackTime > attackCooldown)
         {
-            PlayerAttack playerAttack = GetComponent<PlayerAttack>();
+            StartCoroutine(PerformAttack());
             if (playerAttack != null)
             {
                 playerAttack.Attack();
@@ -96,7 +98,6 @@ public class PlayerControl : MonoBehaviour
             {
                 AudioSource.PlayClipAtPoint(attackSound, transform.position);
             }
-            StartCoroutine(PerformAttack());
         }
 
         if (Input.GetMouseButtonDown(1) && spearPrefab != null)
