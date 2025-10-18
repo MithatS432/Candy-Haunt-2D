@@ -25,6 +25,16 @@ public class ThrowSpear : MonoBehaviour
                 enemyHealth.GetDamage(damage);
             }
             Destroy(gameObject);
+            BossEnemySummon summonEnemyHealth = other.GetComponent<BossEnemySummon>();
+            if (summonEnemyHealth != null)
+            {
+                summonEnemyHealth.GetDamage(damage);
+            }
+            BossEnemy bossEnemy = other.GetComponent<BossEnemy>();
+            if (bossEnemy != null)
+            {
+                bossEnemy.GetDamage(damage);
+            }
         }
     }
 }

@@ -34,7 +34,7 @@ public class PlayerAttack : MonoBehaviour
         attackCollider.enabled = true;
 
         // Collider açık kalma süresi
-        yield return new WaitForSeconds(0.2f); // 0.1 yerine 0.2 deneyebilirsin
+        yield return new WaitForSeconds(0.5f);
 
         // Collider'ı kapat
         attackCollider.enabled = false;
@@ -54,6 +54,16 @@ public class PlayerAttack : MonoBehaviour
             if (enemy != null)
             {
                 enemy.GetDamage(damage);
+            }
+            BossEnemySummon summonEnemyHealth = other.GetComponent<BossEnemySummon>();
+            if (summonEnemyHealth != null)
+            {
+                summonEnemyHealth.GetDamage(damage);
+            }
+            BossEnemy bossEnemy = other.GetComponent<BossEnemy>();
+            if (bossEnemy != null)
+            {
+                bossEnemy.GetDamage(damage);
             }
         }
     }

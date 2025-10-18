@@ -10,6 +10,7 @@ TagManager:
   - Boiler
   - Sound
   - AttackSpear
+  - BossTrigger
   layers:
   - Default
   - TransparentFX

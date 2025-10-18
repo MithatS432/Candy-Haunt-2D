@@ -58,6 +58,7 @@ public class PlayerControl : MonoBehaviour
     public bool isSpawned = false;
     public static bool isAlive = true;
     public GameObject soundTrigger;
+    public GameObject enemyBossSpawnTrigger;
 
     void Start()
     {
@@ -257,6 +258,13 @@ public class PlayerControl : MonoBehaviour
                 SpawnManager spawnManager = FindAnyObjectByType<SpawnManager>();
                 spawnManager.StartSpawning();
             }
+        }
+        else if (other.gameObject.CompareTag("BossTrigger"))
+        {
+
+            enemyBossSpawnTrigger.SetActive(false);
+            BossEnemy boss = FindAnyObjectByType<BossEnemy>();
+            boss.BossSpawn();
         }
     }
 
